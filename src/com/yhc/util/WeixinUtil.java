@@ -40,14 +40,14 @@ public class WeixinUtil {
 
 	//微信测试账号
 	/*
-	private static final String APPID = "wx5ef0add8e2d2401b";
-	private static final String APPSECRET = "507494eb39cd55cfd8a6c493e677cef1";
+	private static final String APPID = "xxxxxxxxxxxxxxxxx";
+	private static final String APPSECRET = "xxxxxxxxxxxxxxxxxxx";
 	*/
 	
 	//微信开发者账号 l男神lFM
 	
-	private static final String APPID = "wxcc99b0cd8ac0bb18";
-	private static final String APPSECRET = "ac4e220e08b6aee0eb66bb8091b81c50";
+	private static final String APPID = "xxxxxxxxxxxxxx";
+	private static final String APPSECRET = "xxxxxxxxxxxxxxxxxxx";
 	
 	
 	private static final String ACCESS_TOKEN_URL = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=APPID&secret=APPSECRET";
@@ -59,8 +59,8 @@ public class WeixinUtil {
 	
 	//百度翻译
 	private static final String TRANS_URL = "http://api.fanyi.baidu.com/api/trans/vip/translate?q=QUERY&from=FROM&to=TO&appid=APPID&salt=SALT&sign=SIGN";
-	private static final String BD_APPID = "20161029000031002";
-	private static final String BD_SECRET = "_3hpCpXAvLcfsVjBJUSS";
+	private static final String BD_APPID = "xxxxxxxxxxxxx";
+	private static final String BD_SECRET = "xxxxxxxxxxxxxx";
 	
 	/**
 	 * get请求
